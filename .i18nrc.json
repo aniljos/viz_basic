@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "vizBasic": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
+

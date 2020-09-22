@@ -1,0 +1,10 @@
+img:hover{
+    cursor: pointer;
+}
+
+.message:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+    /* cursor: pointer; */
+    filter: brightness(102%)
+}
